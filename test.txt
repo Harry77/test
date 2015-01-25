@@ -1,3 +1,4 @@
 first input
 second input
 input from Downloads
+input from Documents
